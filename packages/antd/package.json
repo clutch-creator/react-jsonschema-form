@@ -1,5 +1,5 @@
 {
-  "name": "@rjsf/antd",
+  "name": "@clutch-creator/rjsf-antd",
   "version": "2.1.1",
   "description": "Ant Design theme, fields and widgets for react-jsonschema-form",
   "main": "dist/cjs/index.js",
@@ -97,5 +97,6 @@
   "bugs": {
     "url": "https://github.com/mozilla-services/react-jsonschema-form/issues"
   },
-  "homepage": "https://github.com/mozilla-services/react-jsonschema-form#readme"
+  "homepage": "https://github.com/mozilla-services/react-jsonschema-form#readme",
+  "gitHead": "9f0a18e741d9807fce75718b84ab83f7c245aac9"
 }
