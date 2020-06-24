@@ -1,6 +1,6 @@
 {
   "name": "@clutch-creator/rjsf-antd",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Ant Design theme, fields and widgets for react-jsonschema-form",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
