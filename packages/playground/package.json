@@ -39,9 +39,9 @@
   "dependencies": {
     "@babel/runtime-corejs2": "^7.4.5",
     "@material-ui/core": "^4.9.4",
-    "@rjsf/antd": "^2.1.1",
-    "@rjsf/core": "^2.1.1",
-    "@rjsf/material-ui": "^2.1.1",
+    "@clutch-creator/rjsf-antd": "^2.1.1",
+    "@clutch-creator/rjsf-core": "^2.1.1",
+    "@clutch-creator/rjsf-material-ui": "^2.1.1",
     "ajv": "^6.7.0",
     "core-js": "^2.5.7",
     "jss": "^10.0.3",
