@@ -1,6 +1,6 @@
 {
   "name": "@clutch-creator/react-jsonschema-form",
-  "version": "2.0.0-alpha.3",
+  "version": "2.0.0-alpha.4",
   "private": false,
   "description": "monorepo for react-jsonschema-form and its themes",
   "scripts": {
